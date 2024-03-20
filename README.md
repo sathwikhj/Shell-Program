@@ -24,7 +24,7 @@ Sath_Shell is a simple command-line shell implemented in C++. It provides basic 
 
 2. **Execute the Shell:**
     ```
-    ./sath_shell
+    ./shell
     ```
 
 3. **Interact with the Shell:**
