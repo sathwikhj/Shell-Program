@@ -30,7 +30,11 @@ Sath_Shell is a simple command-line shell implemented in C++. It provides basic 
 3. **Interact with the Shell:**
     - Enter commands supported by the shell.
     - Type `exit` to exit the shell.
-
+      
+4. **Remove executables and object files:**
+    ```
+    clean
+    ```
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
